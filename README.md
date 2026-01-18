@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Khanh 👋
 
-<!--
-**mjcpj1811/mjcpj1811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Khanh, and I am currently a university student majoring in Information Technology.
 
-Here are some ideas to get you started:
+## About Me
+- 🏫 University: Posts and Telecommunications Institute of Technology (PTIT)
+- 🎓 Major: Information Technology  
+- 💻 Main Programming Language: Java  
+- 🌱 Framework: Spring / Spring Boot  
+- 🔧 Interests: Backend Development, Web Applications, Databases  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building backend systems using Java and Spring, especially projects related to web applications, RESTful APIs, authentication, and database integration.
+
+## Skills
+
+- Java Core, OOP  
+- Spring Boot, Spring MVC, Spring Security  
+- RESTful API Development  
+- MySQL, SQL Server  
+- Git & GitHub  
+
+## Goal
+
+My goal is to become a professional Java Backend Developer, continuously improving my skills through real projects and learning new technologies.
+
+Thanks for visiting my profile! 😊
